@@ -1,7 +1,7 @@
 <template>
   <section>
     <p class="text-gray-400 pt-6 pl-6">{{ subTitle }}</p>
-    <h2 class="pt-2 pl-6 text-3xl">
+    <h2 class="pt-2 pl-6 pb-2 text-3xl">
       <strong>{{ title }}</strong>
     </h2>
     <a class="pt-1 pl-6 text-blue-400" href=""
